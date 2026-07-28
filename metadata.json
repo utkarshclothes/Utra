@@ -1,0 +1,6 @@
+{
+  "name": "UTRA",
+  "description": "UTRA — Clothing For The Distinct. Luxury fashion e-commerce & store management platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
